@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Mega Sena</string>
+    <string name="title">Boa Sorte</string>
+    <string name="numbers_generator">Gerar números</string>
+</resources>
